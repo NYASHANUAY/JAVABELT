@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BeltApplication<belt>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.belt.BeltApplication",
+            "projectName": "belt",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
